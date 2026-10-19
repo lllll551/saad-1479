@@ -1,11 +1,70 @@
-<div align="center">
+# سعد جنرل سٹور - پیل خوشاب (Saad General Store)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+مکمل ای کامرس ویب سائٹ اور ایڈمن سسٹم (Full Stack E-commerce & Store Management System).
 
-  <h1>Built with AI Studio</h2>
+---
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 📋 خصوصیات (Features)
+- **ڈیزائن:** جدید اور خوبصورت اردو اور انگریزی انٹرفیس، موبائل فرینڈلی
+- **پروڈکٹس کیٹیگریز:** 
+  - لیس اور فینسی بارڈرز (Laces & Borders)
+  - فینسی بٹنز اور ٹسلز (Fancy Buttons & Tassels)
+  - کڑھائی والے گلے اور پیچز (Embroidery Patches & Necklines)
+  - دھاگے اور سلائی میٹریل (Threads & Tailoring Essentials)
+  - موتی، کٹ دانہ اور ستارے (Pearls, Beads & Sequins)
+  - فینسی ریبن اور گوٹا کناری (Ribbons & Gota Kinari)
+  - دیگر جنرل اور روزمرہ گھریلو اشیاء
+- **سعد ارحاب (پروپرائیٹر کارڈ):** آنر پروفائل، کیمرہ / فوٹو اپلوڈر، براہ راست تصویر تبدیلی
+- **برانڈ لوگو:** باضابطہ سعد جنرل سٹور مونوگرام اور کسٹم لوگو اپلوڈ
+- **آرڈرز اور کارٹ:** واٹس ایپ پر ایک کلک سے براہ راست مکمل آرڈر بھیجنے کی سہولت
+- **ایڈمن پینل:** پروڈکٹس شامل کرنا، ایڈیٹ کرنا، ڈیلیٹ کرنا، ریٹ اور اسٹاک تبدیل کرنا
+- **بیک اینڈ اور ڈیٹا بیس:** ایکسپریس سرور اور لوکل JSON پر مبنی ڈیٹا اسٹوریج
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+---
 
-</div>
+## 🚀 اپنے کمپیوٹر پر چلانے کا طریقہ (How to Run Locally)
+
+### ضروریات (Prerequisites)
+- [Node.js](https://nodejs.org/) (ورژن 18 یا اس سے نیا)
+- npm (Node کے ساتھ خودکار انسٹال ہوتا ہے)
+
+### طریقہ کار (Steps)
+
+1. **فائل ان زپ کریں (Unzip the Archive):**
+   اس زپ فائل کو کسی بھی فولڈر میں نکالیں (Extract All)۔
+
+2. **ٹرمینل یا کمانڈ پرامپٹ کھولیں (Open Terminal / Command Prompt):**
+   فولڈر کے اندر رائٹ کلک کر کے `Open in Terminal` منتخب کریں۔
+
+3. **ڈیپینڈینسیز انسٹال کریں (Install Dependencies):**
+   ```bash
+   npm install
+   ```
+
+4. **لوکل سرور شروع کریں (Start Development Server):**
+   ```bash
+   npm run dev
+   ```
+
+5. **ویب سائٹ کھولیں (Open in Browser):**
+   اپنے براؤزر (Chrome, Edge وغیرہ) میں یہ ایڈریس کھولیں:
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+## 🛠️ بلڈ اور پروڈکشن (Production Build)
+
+ویب سائٹ کو لائیو سرور پر چلانے کے لیے:
+```bash
+npm run build
+npm start
+```
+
+---
+
+## 📞 رابطہ معلومات (Contact Info)
+- **دکان:** سعد جنرل سٹور، پیل چوک / مین بازار، پیل، ضلع خوشاب
+- **پروپرائیٹر:** سعد ارحاب (Saad Arhab)
+- **فون اور واٹس ایپ:** 0300-1234567 / 0302-7654321

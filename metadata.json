@@ -1,0 +1,6 @@
+{
+  "name": "Saad General Store",
+  "description": "Online store for Saad General Store in Pail, Khushab offering born baby products, laces, cosmetics, school bags, woman bags, baby garments, toys, and electronics with WhatsApp order & Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
